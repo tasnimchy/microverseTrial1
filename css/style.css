@@ -22,3 +22,17 @@
     color: blue;
     font-weight: 500;
 }
+
+.contact-form{
+    background-color: red;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.submit{
+    background-color: rgb(251, 216, 171);
+    font-weight: 700;
+}
+
