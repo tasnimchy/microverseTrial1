@@ -1,0 +1,24 @@
+#header{
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px ;
+}
+
+#logo{
+    margin-bottom: 17px;
+    margin-left: 20px;
+}
+
+#nav-bar{
+    display: flex;
+    gap: 30px;
+    margin-right: 20px;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: blue;
+    font-weight: 500;
+}
